@@ -9,8 +9,8 @@
 - 🔭 I'm currently looking for a job or internship
 - 📝 You can review my [CV](https://drive.google.com/file/d/18ZakeZs445-0ofuARCuZ46mAPAsZTDVr/view?usp=sharing)
 - 👨‍💻 My darling pet-project [humans-base](https://github.com/chinakkk/humans-base)
-- 🌱 Fun fact: I like cats and I don't like mornings
 - 📚 Education: Kazan Federal Univesity direction information technology
+- 🌱 Fun fact: I like cats and I don't like mornings
 
 
 
