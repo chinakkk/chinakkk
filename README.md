@@ -4,7 +4,7 @@
 
 <!-- <h3 align="center">A frontend developer from Kazakhstan</h3> -->
 
-<img align="right" height = "170"   width = "190" src = "https://github.com/chinakkk/chinakkk/blob/main/cat.gif"/>
+<img align="right" height = "170"   width = "190" src = "https://github.com/chinakkk/chinakkk/blob/main/assets/cat.gif"/>
 
 - 🔭 I'm currently looking for a job or internship
 - 📝 You can review my CV by this [link](https://drive.google.com/file/d/18ZakeZs445-0ofuARCuZ46mAPAsZTDVr/view?usp=sharing)
