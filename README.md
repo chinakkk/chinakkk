@@ -7,7 +7,7 @@
 <img align="right" height = "170"   width = "190" src = "https://github.com/chinakkk/chinakkk/blob/main/assets/cat.gif"/>
 
 - 🔭 I'm currently looking for a job or internship
-- 📝 You can review my [CV](https://drive.google.com/file/d/18ZakeZs445-0ofuARCuZ46mAPAsZTDVr/view?usp=sharing)
+- 📝 You can review my [CV](https://drive.google.com/file/d/1i1Llh3ZUEiNR2aMY7QlPuB-94swU6mE6/view)
 - 👨‍💻 My darling pet-project [humans-base](https://github.com/chinakkk/humans-base)
 - 📚 Education: Kazan Federal Univesity direction information technology
 - 🌱 Fun fact: I like cats and I don't like mornings
