@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Chingiz Keldibekov,
-  <p align="center">frontend developer from Kazakhstan</p>
+  <p align="center">Junior frontend developer</p>
 </h1>
 
 <!-- <h3 align="center">A frontend developer from Kazakhstan</h3> -->
 
 <img align="right" height = "170"   width = "190" src = "https://github.com/chinakkk/chinakkk/blob/main/assets/cat.gif"/>
 
-- 🔭 I work for the company "The devs"
+- 🔭 I work :)
 - 📝 You can review my [CV](https://drive.google.com/file/d/1j0ACC4I_Kow7xU4yoPL8SYtkq7McDlS-/view?usp=sharing)
 - 👨‍💻 My darling pet-project [humans-base](https://github.com/chinakkk/humans-base)
 - 📚 Education: Kazan Federal Univesity direction information technology
