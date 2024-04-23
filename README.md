@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chingiz Keldibekov,
-  <p align="center">Junior frontend developer</p>
+  <p align="center">Frontend developer</p>
 </h1>
 
 <!-- <h3 align="center">A frontend developer from Kazakhstan</h3> -->
