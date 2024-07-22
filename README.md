@@ -8,7 +8,7 @@
 
 - 🔭 I work :)
 - 📝 You can review my [CV](https://drive.google.com/file/d/1j0ACC4I_Kow7xU4yoPL8SYtkq7McDlS-/view?usp=sharing)
-- 👨‍💻 My darling pet-project [humans-base](https://github.com/chinakkk/humans-base)
+<!-- - 👨‍💻 My darling pet-project [humans-base](https://github.com/chinakkk/humans-base) -->
 - 📚 Education: Kazan Federal Univesity direction information technology
 - 🌱 Fun fact: I like cats and I don't like mornings
 
