@@ -6,7 +6,7 @@
 
 <img align="right" height = "170"   width = "190" src = "https://github.com/chinakkk/chinakkk/blob/main/assets/cat.gif"/>
 
-- 🔭 I work :)
+- 🔭 Open to work :)
 - 📝 You can review my [CV](https://drive.google.com/file/d/1j0ACC4I_Kow7xU4yoPL8SYtkq7McDlS-/view?usp=sharing)
 <!-- - 👨‍💻 My darling pet-project [humans-base](https://github.com/chinakkk/humans-base) -->
 - 📚 Education: Kazan Federal Univesity direction information technology
